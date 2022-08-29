@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @stardust5555
-- 👀 I’m interested in coding, film and music. :)
-- 🌱 I’m currently learning code at the School of Code!
-- 💞️ My favourite thing that I've learnt so far is how to change the design of a website using HTML and CSS.
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg)](https://github.com/stardust5555)
