@@ -1,9 +1,9 @@
-<h1 align="center"> Hey there! 
+<h1 align="center"> Welcome! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/young-black-woman-sitting-floor-working-laptop-freelance-remote-working-online-studying-work-from-home-flat-style-vector-illustration_285336-2361.jpg?w=2000" alt="Young woman at computer" width="300" height="300"/>
+  <img src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="300" height="300"/>
 </div>
 
 <div align="center" id="header">
@@ -19,6 +19,7 @@ I'm currently looking for software roles - feel free to contact me via LinkedIn.
 </a>
 
 </div>
+
 
 
   
