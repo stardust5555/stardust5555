@@ -11,16 +11,21 @@
 I've just become a <b>graduate from the School of Code</b> - a 16 week intensive bootcamp in which I went from a novice to a <b>full stack developer</b>!
 I'm excited to be at the beginning of my coding career and am enthusiatic about both <b>frontend and backend</b> development. 
 <br></br>
-I'm currently looking for software roles - feel free to contact me via LinkedIn.
 </p>
+
+<p>
+- 👀 I’m interested in <b>frontend <em>and</em> backend</b> development
+- 🌱 I love learning new things. At the moments I've decided to start learning <b>Python</b>!
+- 🕑 In the future 
+- ⚡ Fun fact: I'm a big fan of Bruce Springsteen. He walked right past me me once, and I almost passed out. :rockandrollemoji:
+</p>
+
+<p>I'm currently looking for software roles - feel free to contact me via LinkedIn.</p>
 
 <a href="https://www.linkedin.com/in/shivana-p-749a11220/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-
-
-
   
   
 <h2>Languages and Tools</h2>
