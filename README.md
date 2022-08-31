@@ -2,10 +2,12 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  <img align="right" src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="400" height="400"/>
+<div align="center" id="mainImage">
+<img align="center" src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="400" height="400"/>
+</div>
 
 <br></br>
-<div align="left" id="aboutMe">
+<div align="center" id="aboutMe">
 <p>
 I've just become a graduate from the <b>School of Code</b> - a 16 week intensive bootcamp in which I went from a novice to a <b>full stack developer</b>.
 I'm very excited to be at the beginning of my coding career!
