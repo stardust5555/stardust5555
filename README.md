@@ -6,20 +6,22 @@
   <img src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="300" height="300"/>
 </div>
 
-<div align="center" id="header">
+<div align="center" id="aboutMe">
 <p>
-I've just become a <b>graduate from the School of Code</b> - a 16 week intensive bootcamp in which I went from a novice to a <b>full stack developer</b>!
-I'm excited to be at the beginning of my coding career and am enthusiatic about both <b>frontend and backend</b> development. 
+I've just become a graduate from the <b>School of Code</b> - a 16 week intensive bootcamp in which I went from a novice to a <b>full stack developer</b>.
+I'm very excited to be at the beginning of my coding career!
 <br></br>
 </p>
+</div>
 
-<p>
+
 - 👀 I’m interested in <b>frontend <em>and</em> backend</b> development
 - 🌱 I love learning new things. At the moments I've decided to start learning <b>Python</b>!
-- 🕑 In the future 
+- 🙃 I'd love to <b>collaborate</b> on projects in the future!
 - ⚡ Fun fact: I'm a big fan of Bruce Springsteen. He walked right past me me once, and I almost passed out. :rockandrollemoji:
-</p>
 
+
+<div id="contactMe" align="center">
 <p>I'm currently looking for software roles - feel free to contact me via LinkedIn.</p>
 
 <a href="https://www.linkedin.com/in/shivana-p-749a11220/">
