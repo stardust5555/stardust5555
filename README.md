@@ -2,11 +2,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="300" height="300"/>
-</div>
+  <img align="right" src="https://user-images.githubusercontent.com/103673974/187241229-399c7f4a-7fbd-45e0-b096-f3c0e3735ca2.png" alt="Young woman at computer" width="400" height="400"/>
 
-<div align="center" id="aboutMe">
+<br></br>
+<div align="left" id="aboutMe">
 <p>
 I've just become a graduate from the <b>School of Code</b> - a 16 week intensive bootcamp in which I went from a novice to a <b>full stack developer</b>.
 I'm very excited to be at the beginning of my coding career!
@@ -17,10 +16,11 @@ I'm very excited to be at the beginning of my coding career!
 
 - 👀 I’m interested in <b>frontend <em>and</em> backend</b> development
 - 🌱 I love learning new things. At the moments I've decided to start learning <b>Python</b>!
-- 🙃 I'd love to <b>collaborate</b> on projects in the future!
+- 🙃 I'd love to <b>collaborate</b> on projects in the future, so that I can learn from others and have fun working with new people!
 - ⚡ Fun fact: I'm a big fan of Bruce Springsteen. He walked right past me me once, and I almost passed out. :rockandrollemoji:
 
 
+<br></br>
 <div id="contactMe" align="center">
 <p>I'm currently looking for software roles - feel free to contact me via LinkedIn.</p>
 
