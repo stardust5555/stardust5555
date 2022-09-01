@@ -28,7 +28,7 @@ I'm very excited to be at the beginning of my coding career!
   
   
 <h2>Languages and Tools</h2>
-<div align="center">
+<div align="left">
  <!--Core-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -56,7 +56,11 @@ I'm very excited to be at the beginning of my coding career!
  <!--Testing-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/103673974/187541814-29267769-53f5-4b1e-992c-81e5ad831b55.png" title="cypress" alt="cypress" width="40" height="40"/>
-</h3>
-  
  </div>
+ 
+   <!--Overview-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardust5555&layout=compact" alt="LanguageStats"/>
+
+
+
 
