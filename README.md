@@ -16,7 +16,7 @@ I'm very excited to be at the beginning of my coding career!
 - 👀 I’m interested in <b>frontend <em>and</em> backend</b> development
 - 🌱 I love learning new things. At the moments I've decided to start learning <b>Python</b>!
 - 🙃 I'd love to <b>collaborate</b> on projects in the future, so that I can learn from others and have fun working with new people!
-- ⚡ Fun fact: I'm a big fan of Bruce Springsteen. He walked right past me me once, and I almost passed out. :rockandrollemoji:
+- ⚡ Fun fact: I'm a big fan of Bruce Springsteen. 
 
 <div id="contactMe" align="center">
 <p>I'm currently looking for software roles - feel free to contact me via LinkedIn.</p>
